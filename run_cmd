@@ -1,0 +1,1 @@
+CLASSPATH=/data/local/tmp/cliphelper.jar app_process / com.qaai.cliphelper.ClipHelper $testmsg
